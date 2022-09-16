@@ -1,0 +1,34 @@
+body{
+    background-color: #cfdee7;
+    text-align: center;
+    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Lobster Two', cursive;   
+}
+#qr-code{
+    margin-top: 20px;
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+    align-items: center;
+}
+.box{
+    background-image: url("../images/lighter.png");
+    background-color: white;
+    background-size: cover;
+    height: 500px;
+    width: 350px; 
+    border-radius: 10px;  
+}
+#container{
+    margin-left: 500px;
+    margin-top: 70px;
+}
+.text{
+    display: block;
+}
+h2{
+    color: #102e4a;
+}
+p{
+    color: #1c5253;
+}
